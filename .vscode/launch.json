@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CxMsg",
+            "request": "launch",
+            "mainClass": "CxMsg",
+            "projectName": "Codigos java aula_7a063069"
+        }
+    ]
+}

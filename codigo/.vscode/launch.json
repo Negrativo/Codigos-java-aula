@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - testeEstudos",
+            "request": "launch",
+            "mainClass": "testeEstudos",
+            "projectName": "codigo_bc6d1b51"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TstMain",
+            "request": "launch",
+            "mainClass": "TstMain",
+            "projectName": "codigo_bc6d1b51"
+        }
+    ]
+}
